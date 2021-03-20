@@ -6,7 +6,9 @@ My first system, builded in C# and data registered in txt file
 
 ![l](https://user-images.githubusercontent.com/52250904/111883013-7ae7a300-8997-11eb-9294-e4df5dfa7936.PNG)
 
+Resumo:
+CRUD para cadastro de pacientes, médicos , consultas e afins...
 
-KeyWords:  C#, .NET
+KeyWords:  C#, .NET, DateTime
 
 Developed By: César Henrique Alves Oncala
